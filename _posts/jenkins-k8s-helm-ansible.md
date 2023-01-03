@@ -1,18 +1,17 @@
 ---
 title: 'Deploying Jenkins on AWS EKS with Helm and Ansible: A Step-by-Step Guide'
-excerpt: 'In this tutorial, we'll walk you through the process of deploying Jenkins on AWS EKS cluster using Helm and Ansible. We'll show you how to automate the deployment process and customize your Jenkins installation with Jinja templating, and provide tips for managing your Jenkins configuration as code. Follow along to get Jenkins up and running on your EKS cluster in no time!'
-coverImage: '/assets/blog/preview/cover_2.jpg'
+excerpt: "In this tutorial, we'll walk you through the process of deploying Jenkins on AWS EKS cluster using Helm and Ansible. We'll show you how to automate the deployment process and customize your Jenkins installation with Jinja templating, and provide tips for managing your Jenkins configuration as code. Follow along to get Jenkins up and running on your EKS cluster in no time!"
+coverImage: "/assets/blog/preview/cover_2.png"
 date: '2023-01-03T17:00:00.322Z'
 author:
   name: Nikita Guliaev
-  picture: '/assets/blog/authors/nikita.jpg'
+  picture: '/assets/blog/authors/nikita.png'
 ogImage:
-  url: '/assets/blog/preview/cover_2.jpg'
+  url: '/assets/blog/preview/cover_2.png'
 ---
 
 ## Deploying Jenkins Helm chart to AWS EKS with Ansible
 
-Greetins!
 ## Introduction
 In this tutorial we're going to set up Jenkins CI/CD tool on AWS EKS cluster using [Jenkins official Helm chart](https://charts.jenkins.io/) and Ansible.
 

@@ -4,7 +4,7 @@ excerpt: 'This is my first post about future plans are what I am going to write 
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2022-12-30T18:35:07.322Z'
 author:
-  name: Nikita Guliaev
+  name: 'Nikita Guliaev'
   picture: '/assets/blog/authors/nikita.jpg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
